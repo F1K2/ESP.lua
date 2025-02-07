@@ -13,7 +13,7 @@ Box.Color3 = Color3.new(100 / 255, 100 / 255, 100 / 255)
 Box.Transparency = 0.7
 Box.ZIndex = 0
 Box.AlwaysOnTop = false
-Box.Visible = true
+Box.Visible = false
 
 local NameTag = Instance.new("BillboardGui")
 NameTag.Name = "nilNameTag"
